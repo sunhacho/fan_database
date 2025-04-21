@@ -10,6 +10,13 @@
 ## 데이터 수집
 <img width="1445" alt="image" src="https://github.com/user-attachments/assets/95c4339a-a905-4aa4-86de-27fe2736bc94" /></br></br></br>
 
+## 데이터 전처리
+1. 구단명 통일</br>
+2. 이전 된 경기장 널값 채움</br>
+3. 평균기온 기호 제거 + 수치형으로 변환</br>
+4. 관중 수 정수형으로 변환</br>
+5. 우취로 인한 관중 수가 0인 행 제거</br></br></br>
+
 ## 야구 여러 요인과 관중 수 상관관계 분석
 ### 1. 야구 특별경기장과 관중 수
    <img width="1394" alt="image" src="https://github.com/user-attachments/assets/5dc39e06-98c6-4b11-afaa-b3a4a50402b7" /></br>
